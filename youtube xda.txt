@@ -1,0 +1,11 @@
+127.0.0.1 https://googleads.g.doubleclick.net/*
+127.0.0.1 https://pubads.g.doubleclick.net/*
+127.0.0.1 https://ad.doubleclick.net/*
+127.0.0.1 https://s0.2mdn.net/ads/*
+127.0.0.1 http://pagead2.googlesyndication.com/pagead/*
+127.0.0.1 http://stats.tubemogul.com/stats/*
+127.0.0.1 http://pubads.g.doubleclick.net/*
+127.0.0.1 http://googleads.g.doubleclick.net/*
+127.0.0.1 ##div.video-ads html5-stop-propagation
+127.0.0.1 ##div.pyv-afc-ads-inner
+127.0.0.1 youtube.com###osd-id
